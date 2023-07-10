@@ -30,10 +30,9 @@ Want to sit back and watch a match between Glenn and Couto? Simply execute the f
 
 Please make sure that you are using Python 3 to run these scripts.
 
-
-The source codes are taken from [here](https://github.com/leandrocouto/sketch-learning/).
-----------
-
-
 Enjoy the game!
+
+----------
+_The source codes are taken from [here](https://github.com/leandrocouto/sketch-learning/)._
+
 
