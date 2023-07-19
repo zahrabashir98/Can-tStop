@@ -90,12 +90,12 @@ def main(count, arg):
                         print("CHOSE", chosen_play)
                     
             else:
-                print("PLAYER 2")
-                moves = game.available_moves()
-                print("MOVES", moves)
+                # print("PLAYER 2")
+                # moves = game.available_moves()
+                # print("MOVES", moves)
                 chosen_play = p2.get_action(game)
-                print(chosen_play)
-                print("\n\n")
+                # print(chosen_play)
+                # print("\n\n")
             
             # pair = (copy.deepcopy(game), chosen_play)
             # state_action_pairs_current_round.append(pair)
