@@ -152,7 +152,7 @@ class Board:
         #         if x in partial_completed_rows:
         #             print('*', end='')
         #     print()
-        print("********************\n")
+        print("********************")
         # input()
 
     def check_board_equality(self, board: 'Board') -> bool:
