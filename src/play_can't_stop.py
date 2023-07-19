@@ -59,7 +59,6 @@ def main(count, arg):
                 
                 if moves[0] =='y' or moves[0]=='n':
                     if p1:
-                        
                         chosen_play = p1.get_action(game)
                     else:
                         print("Yes/NO")
@@ -79,7 +78,6 @@ def main(count, arg):
                 else:
                     if p1:
                        chosen_play = p1.get_action(game) 
-                       assert 1!=1
                     else:
                         
                         print("Column decision")
