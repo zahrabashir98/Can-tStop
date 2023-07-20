@@ -27,11 +27,12 @@ You can find the implementation of this program by following this path:
 > src/players/Couto_Player.py
 
 
+
 The next section will guide you through the process of running the game, explaining the different commands to interact with various settings.
 
 ## Getting Started and Running the Game!
 
-1.  Begin by navigating to the `src` folder, where you will find all the necessary files to run the game.
+Begin by navigating to the `src` folder, where you will find all the necessary files to run the game.
 
 ### Game Play Options
 
