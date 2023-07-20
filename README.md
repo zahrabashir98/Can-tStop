@@ -31,6 +31,8 @@ You can find the implementation of this program by following this path:
 The next section will guide you through the process of running the game, explaining the different commands to interact with various settings.
 
 ## Getting Started and Running the Game!
+In order to install all dependencies of the program, run the following command:
+`python3 -m pip install -r requirements.txt`
 
 Begin by navigating to the `src` folder, where you will find all the necessary files to run the game.
 
