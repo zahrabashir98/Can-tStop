@@ -33,23 +33,23 @@ The next section will guide you through the process of running the game, explain
 
 1.  Begin by navigating to the `src` folder, where you will find all the necessary files to run the game.
 
-## Game Play Options
+### Game Play Options
 
 We offer different settings for diverse gameplay experiences:
 
-### Play against the Couto AI
+#### Play against the Couto AI
 
 To test your skills against the Couto AI player, use the following command in your terminal:
 
 `python3 play_cant_stop.py self-c` 
 
-### Play against the Glenn AI
+#### Play against the Glenn AI
 
 If you're up for a challenge against the Glenn AI player, run the following command:
 
 `python3 play_cant_stop.py self-g` 
 
-### Watch Glenn vs Couto
+#### Watch Glenn vs Couto
 
 Want to sit back and watch a match between Glenn and Couto? Simply execute the following command:
 
