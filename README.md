@@ -3,7 +3,7 @@
 Welcome to the GitHub repository for the classic game, "Can't Stop". 
 
 ## The Program!
-
+Here is the program that you need to understand and explain in our questionnaire. The strategy implemented within this code is known as Couto's strategy, named after its developer.
 ```
 def get_action(self, state):
     actions = state.available_moves()
