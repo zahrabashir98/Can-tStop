@@ -21,7 +21,7 @@ def get_action(self, state):
                 return 'y'
     else:
         index = argmax(map((lambda x : sum(map((lambda x : (PositionsPlayerHasSecuredInColumn + move_value)), locallist))), actions))
-        return actions[index]
+    return actions[index]
 ```
 You can find the implementation of this program by following this path:
 > src/players/Couto_Player.py
