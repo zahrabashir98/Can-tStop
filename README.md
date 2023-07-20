@@ -24,7 +24,7 @@ def get_action(self, state):
     return actions[index]
 ```
 You can find the implementation of this program by following this path:
-> src/players/Couto_Player.py
+`src/players/Couto_Player.py`
 
 
 
